@@ -30,7 +30,7 @@ quotes = [
 "World feels bigger now. Lot more than pine trees and pulpwood.",
 "Ain’t nothin’ wrong with my grammar.",
 "You remember — we already paid our damn dues. We don’t owe no-one our blood.",
-"You sit in a ward long ‘nuff with morphine in your veins, you start thinkin’ about all sorts of things.
+"You sit in a ward long ‘nuff with morphine in your veins, you start thinkin’ about all sorts of things.",
 "Hey, careful! Can't you see I'm a cripple?"
 ]
 +++
