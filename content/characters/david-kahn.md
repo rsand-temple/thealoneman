@@ -10,7 +10,7 @@ born = '1970-01-06'
 hometown = 'Havertown, PA'
 occupation = 'Professor, PhD in Electrical Engineering'
 education = 'University of Michigan (1990); MIT (1994)'
-photo = '/images/characters/kate-1952.png'
+photo = '/images/characters/david-kahn.png'
 
 book = 'The Alone Man'
 major_character = true
