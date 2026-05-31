@@ -15,11 +15,12 @@ book = 'The Alone Man'
 major_character = true
 quotes = [
 "So… you got nothin'?",
-"Ain't nobody gonna bother you in here. Ain't likely, anyways."
-"Felt like ten years in twelve months."
-"This has to be about Dave. They come for him."
-"RUN, DOC!"
-"Hey, careful! Can't you see I'm a cripple?"
+"Ain't nobody gonna bother you in here. Ain't likely, anyway.",
+"You serious? They got your head good, didn’t they? It’s 1952, friend. Welcome to Korea.",
+"Felt like ten years in twelve months.",
+"This has to be about Dave. They come for him.",
+"RUN, DOC!",
+"Hey, careful! Can't you see I'm a cripple?",
 "A child with a book is a child with a future."
 ]
 +++
