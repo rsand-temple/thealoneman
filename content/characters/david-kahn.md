@@ -17,7 +17,8 @@ major_character = true
 quotes = [
 "I wasn't supposed to be born yet.",
 "This world is analog.",
-"I TOLD YOU. And you won't hear it. You wouldn't let yourself hear it.",
+"What is the geometry of fate?",
+"I TOLD YOU. And you wouldn't hear it.",
 "I think… I was hoping someone would understand. Not just believe. Understanding — that might survive.",
 "I let the silence grow until it was a wall I couldn't climb over.",
 "If I get back... I just want to fix what I broke. Or at least tell them I'm sorry.",
