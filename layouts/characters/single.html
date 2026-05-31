@@ -21,22 +21,37 @@
 					<strong>Name</strong>
 				</dt>
 				<dd>{{ . }}</dd>
-				{{ end }} {{ with .Params.nickname }}
+				{{ end }}
+				
+				{{ with .Params.nickname }}
 				<dt>
 					<strong>Nickname</strong>
 				</dt>
 				<dd>{{ . }}</dd>
-				{{ end }} {{ with .Params.born }}
+				{{ end }}
+				
+				{{ with .Params.born }}
 				<dt>
 					<strong>Born</strong>
 				</dt>
 				<dd>{{ . }}</dd>
-				{{ end }} {{ with .Params.hometown }}
+				{{ end }}
+				
+				{{ with .Params.hometown }}
 				<dt>
 					<strong>Hometown</strong>
 				</dt>
 				<dd>{{ . }}</dd>
-				{{ end }} {{ with .Params.occupation }}
+				{{ end }}
+				
+				{{ with .Params.education }}
+				<dt>
+					<strong>Education</strong>
+				</dt>
+				<dd>{{ . }}</dd>
+				{{ end }}
+
+				{{ with .Params.occupation }}
 				<dt>
 					<strong>Occupation</strong>
 				</dt>

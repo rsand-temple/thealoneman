@@ -38,9 +38,15 @@ quotes = [
 "We’re almost there. Just a little longer."
 ]
 +++
+Kathleen (a.k.a. Kathy, a.k.a. Kate) Tiggs was born on a rural Oregon farm in 1910. Her mother Donna was a strict, hard working Catholic who heavily influenced Kathleen's ethics and world view.
 
-- Rural Oregon farm family; working-class Catholic; mother Donna the primary shaping authority
-- 1918 pandemic: lost her little sister who was 5
-- The Depression: adolescence under economic collapse; survival as baseline condition
-- Nursing school: formal education, clinical discipline, the body as professional domain
-- Military service from 1932: twenty years of wartime nursing across two theaters before 1952
+She grew up in turbulent times, including World War I and the Spanish Flu. In 1918 she lost her younger sister to diphtheria. Her sister was 5.
+
+She began nursing school just as the Great Depression hit. She barely made enough to get through it, only to find upon her completion in 1932 that there were no jobs. So she joined the Army Nurse Corps. She has served ever since.
+
+In World War II, she served in the North African and European theaters. After the conclusion of the war, she was stationed in Tokyo.
+
+In 1950, at the outbreak of hostilities in Korea, she was transferred to the 121st Evacuation Hospital.
+
+Kathleen goes by 'Kathy' to casual friends and colleagues, only 'Kate' to close friends and family. And unless you're her mother, don't date call her 'Katey'.
+
