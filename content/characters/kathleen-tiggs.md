@@ -22,6 +22,7 @@ quotes = [
 "Maybe you ought to think of a better answer.",
 "But I stay. Because most days, someone needs me more than I need to go.",
 "You’re filthy. Go get cleaned up.",
+"The war won’t wait.",
 "You act like we’re all trying to pin something on you. We’re not.",
 "It’s the quiet resistance, right? The way… nobody waves a flag or gives a speech. They just… refuse.",
 "Don’t flatter yourself. They’re shipping you out Tuesday and I’m not letting you leave my hospital looking like a stray.",
