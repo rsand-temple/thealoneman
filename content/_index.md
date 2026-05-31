@@ -1,6 +1,6 @@
 +++
 date = '2026-05-30T21:00:51-04:00'
-draft = true
+draft = false
 title = 'The Alone Man'
 +++
 In 1952 Korea, a wounded man with no ID and no memory wakes in a U.S. Army field hospital, claiming to be Dr. David Kahn, an engineer from the twenty-first century. His knowledge of future events and technology is precise. The doctors call it amnesia. The army calls him a spy. Only one person, nurse Kathleen "Kate" Tiggs, is willing to listen. As David struggles to prove who he is, his impossible knowledge of moon landings, DNA, and atomic weapons begins to shift belief into fear. Haunted by what he left behind and hunted for what he knows, David faces a terrible choice: stay silent and be erased, or speak the truth and alter the course of history, potentially erasing himself and his own daughter. David must decide whether to run, try to find a way home, or save a future that has not yet happened. 
