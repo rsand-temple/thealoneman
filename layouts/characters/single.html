@@ -1,0 +1,57 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns mw8 center lh-copy">
+
+  <header class="mb4">
+    <h1 class="f1-l f2 mt0 mb3">{{ .Title }}</h1>
+  </header>
+
+  <div class="cf">
+
+    {{ with .Params.photo }}
+    <img
+      src="{{ . }}"
+      alt="{{ $.Params.character_name | default $.Title }}"
+      class="fr-ns ml4-ns mb3 br3 shadow-4"
+      style="max-width: 280px; width: 100%; height: auto;"
+    >
+    {{ end }}
+
+    <section class="mb4">
+      <h2 class="f3 mt0">Character Sheet</h2>
+
+      <dl>
+        {{ with .Params.character_name }}
+        <dt><strong>Name</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+
+        {{ with .Params.nickname }}
+        <dt><strong>Nickname</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+
+        {{ with .Params.born }}
+        <dt><strong>Born</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+
+        {{ with .Params.hometown }}
+        <dt><strong>Hometown</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+
+        {{ with .Params.occupation }}
+        <dt><strong>Occupation</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+      </dl>
+    </section>
+
+    <section>
+      {{ .Content }}
+    </section>
+
+  </div>
+
+</article>
+{{ end }}
