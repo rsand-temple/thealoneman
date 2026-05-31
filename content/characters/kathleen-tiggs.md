@@ -9,7 +9,7 @@ nickname = 'Kate'
 born = '1910-08-03'
 hometown = 'St. Brigid, Oregon'
 occupation = 'Army Nurse Corps Lieutenant'
-photo = '/images/characters/Kate_1952.jpg'
+photo = '/images/characters/kate-1952.jpg'
 
 book = 'The Alone Man'
 major_character = true
