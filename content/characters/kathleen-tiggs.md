@@ -14,7 +14,6 @@ photo = '/images/characters/kate-1952.png'
 book = 'The Alone Man'
 major_character = true
 quotes = [
-
 "Silence is a choice. When people go quiet, it's usually because they don't trust what might come out if they speak.",
 "I’ve never seen boots that didn’t belong to the war.",
 "Get some rest. You’re safe here. At least as safe as Seoul ever gets.",
@@ -27,7 +26,7 @@ quotes = [
 "It’s the quiet resistance, right? The way… nobody waves a flag or gives a speech. They just… refuse.",
 "Don’t flatter yourself. They’re shipping you out Tuesday and I’m not letting you leave my hospital looking like a stray.",
 "I don’t think he’s insane. And that’s starting to scare me.",
-"We’re not interrogating him, are we?"
+"We’re not interrogating him, are we?",
 "They’re done with you. But I’m not.",
 "It’s triage on top of triage, the kind of work that makes the hours vanish and the nights blur.",
 "There’s something about this wave — they aren’t just wounded, they look hollow. Like whatever hit them didn’t just take flesh, it reached inside and cracked something.",
