@@ -32,7 +32,6 @@ quotes = [
 "It’s triage on top of triage, the kind of work that makes the hours vanish and the nights blur.",
 "There’s something about this wave — they aren’t just wounded, they look hollow. Like whatever hit them didn’t just take flesh, it reached inside and cracked something.",
 "I can live with that. I can’t live with doing nothing.",
-"I had all these things I was going to say. So many questions…",
 "I’d rather be wrong at your side than right behind a desk when they come for you.",
 "I've been patching boys up for two wars. I sew them up, send them out, and they come back in pieces again. Or they don't come back at all.",
 "I need to know that all this blood... that it leads somewhere. That we’re not just… drowning.",
@@ -49,5 +48,4 @@ In World War II, she served in the North African and European theaters. After th
 
 In 1950, at the outbreak of hostilities in Korea, she was transferred to the 121st Evacuation Hospital.
 
-Kathleen goes by 'Kathy' to casual friends and colleagues, only 'Kate' to close friends and family. And unless you're her mother, don't date call her 'Katey'.
-
+Kathleen goes by 'Kathy' to casual friends and colleagues, only 'Kate' to close friends and family. And unless you're her mother, don't dare call her 'Katey'.
