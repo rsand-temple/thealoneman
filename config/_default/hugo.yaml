@@ -15,9 +15,12 @@ menus:
     - name: Characters
       pageRef: /characters
       weight: 20
+    - name: About
+      pageRef: /about
+      weight: 30	  
     - name: Contact
       pageRef: /contact
-      weight: 30
+      weight: 40
 
 markup:
   goldmark:

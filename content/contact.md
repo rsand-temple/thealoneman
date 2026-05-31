@@ -1,6 +1,7 @@
 +++
-title = "Contact"
+title = "Contact the Author"
 draft = false
+author = "Richard A. Sand"
 +++
 
 <form action="https://formspree.io/f/mredvdyz" method="POST">
