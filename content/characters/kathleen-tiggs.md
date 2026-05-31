@@ -9,12 +9,11 @@ nickname = 'Kate'
 born = '1910-08-03'
 hometown = 'St. Brigid, Oregon'
 occupation = 'Army Nurse Corps Lieutenant'
-photo = '/images/characters/kate-1952.jpg'
+photo = '/images/characters/kate-1952.png'
 
 book = 'The Alone Man'
 major_character = true
 +++
-![Lt. Kathleen Tiggs](/images/characters/kate-1952.png)
 
 - Rural Oregon farm family; working-class Catholic; mother Donna the primary shaping authority
 - 1918 pandemic: lost her little sister who was 5
