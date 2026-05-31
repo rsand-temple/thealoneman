@@ -5,3 +5,11 @@
 .bg-black.pb3-m.pb6-l {
   padding-bottom: 0 !important;
 }
+
+nav li ul {
+  display: none;
+}
+
+nav li:hover > ul {
+  display: block;
+}

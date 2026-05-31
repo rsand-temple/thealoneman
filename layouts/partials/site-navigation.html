@@ -1,0 +1,36 @@
+<nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline">
+      {{ .Site.Title }}
+    </a>
+
+    <div class="flex-l items-center">
+      <ul class="pl0 mr3">
+        {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+            <li class="list f5 f4-ns fw4 dib pr3 relative">
+              <span class="hover-white white-90 no-underline pointer">
+                {{ .Name }}
+              </span>
+              <ul class="absolute bg-black pa2 mt2 list pl0 z-999">
+                {{ range .Children }}
+                  <li class="nowrap pv1">
+                    <a class="hover-white white-90 no-underline" href="{{ .URL }}">
+                      {{ .Name }}
+                    </a>
+                  </li>
+                {{ end }}
+              </ul>
+            </li>
+          {{ else }}
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a class="hover-white white-90 no-underline" href="{{ .URL }}" title="{{ .Name }} page">
+                {{ .Name }}
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>
