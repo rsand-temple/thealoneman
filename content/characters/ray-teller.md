@@ -17,11 +17,21 @@ quotes = [
 "So… you got nothin'?",
 "Ain't nobody gonna bother you in here. Ain't likely, anyway.",
 "You serious? They got your head good, didn’t they? It’s 1952, friend. Welcome to Korea.",
-"Felt like ten years in twelve months.",
-"This has to be about Dave. They come for him.",
-"RUN, DOC!",
-"Hey, careful! Can't you see I'm a cripple?",
-"A child with a book is a child with a future."
+"I got one workin’ leg, and I got morphine, same as you.",
+"Felt like ten years in twelve months. We lost a lotta good men. Picked up replacements like socks.",
+"Some UN brass thought it’d make a nice Christmas card, I reckon.",
+"I knew it before I looked down.",
+"But y’all lucky really, not rememberin’ this place.",
+"Doc, I been watchin’ folks lie my whole life.",
+"Boy, they in trouble tonight.",
+"Whole war’s in order now. Socks’ll be marching by sunrise.",
+"Hey, don’t mind me if I don’t get up.",
+"Ain’t no colleges come lookin’ for me ‘less they was missin’ a janitor.",
+"World feels bigger now. Lot more than pine trees and pulpwood.",
+"Ain’t nothin’ wrong with my grammar.",
+"You remember — we already paid our damn dues. We don’t owe no-one our blood.",
+"You sit in a ward long ‘nuff with morphine in your veins, you start thinkin’ about all sorts of things.
+"Hey, careful! Can't you see I'm a cripple?"
 ]
 +++
 Ray Teller is twenty-two years old and already a realist. He grew up poor in rural Alabama, came of age during a war, and arrived in Korea the way a lot of young men did — without much say in the matter. By the time the novel opens, he is a patient in the same evacuation ward as David Kahn, recovering from wounds that have taken him off the line and left him with time he didn't ask for and a crutch he resents needing.
