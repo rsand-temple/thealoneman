@@ -1,13 +1,27 @@
-/* Shrink Ananke's large page header / hero area */
+/* Shrink Ananke page hero/header */
+header.cover,
+header.cover.bg-top,
+header.cover.bg-center,
 .cover.bg-top,
 .cover.bg-center {
-  min-height: 10rem;
+  min-height: 6rem !important;
+  height: 6rem !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
 }
 
-.pb7 {
-  padding-bottom: 2rem;
+/* Reduce title spacing inside the hero */
+header.cover .pv5,
+header.cover .pv6,
+header.cover .pv7,
+header.cover .pb7,
+header.cover .pt6 {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
 }
 
-.pt6 {
-  padding-top: 2rem;
+/* Smaller homepage title in the banner */
+header.cover h1 {
+  font-size: 2rem !important;
+  margin: 0 !important;
 }
