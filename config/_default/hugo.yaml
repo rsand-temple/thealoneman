@@ -10,14 +10,59 @@ params:
     email: richard@richardsand.com
     phone: +1 267-984-3651
 
+#menus:
+#  main:
+#    - name: Characters
+#      pageRef: /characters
+#      weight: 20
+#    - name: About
+#      pageRef: /about
+#      weight: 30	  
+#    - name: Contact
+#      pageRef: /contact
+#      weight: 40
+
 menus:
   main:
     - name: Characters
       pageRef: /characters
+      identifier: characters
       weight: 20
+
+    - name: "<all>"
+      pageRef: /characters
+      parent: characters
+      weight: 1
+
+    - name: Dr. David Kahn
+      pageRef: /characters/david-kahn
+      parent: characters
+      weight: 10
+
+    - name: Kathleen Tiggs, Lieutenant
+      pageRef: /characters/kathleen-tiggs
+      parent: characters
+      weight: 20
+
+    - name: Dr. Aaron Cohen, Captain
+      pageRef: /characters/aaron-cohen
+      parent: characters
+      weight: 30
+
+    - name: Ray Teller, Corporal
+      pageRef: /characters/ray-teller
+      parent: characters
+      weight: 40
+
+    - name: Colonel Bryce
+      pageRef: /characters/col-bryce
+      parent: characters
+      weight: 50
+
     - name: About
       pageRef: /about
-      weight: 30	  
+      weight: 30
+
     - name: Contact
       pageRef: /contact
       weight: 40

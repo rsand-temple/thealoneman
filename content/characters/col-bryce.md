@@ -6,8 +6,6 @@ title = 'Colonel Bryce'
 
 character_name = 'Colonel Bryce'
 nickname = 'Colonel'
-born = '~1890'
-hometown = 'Eufala, AL'
 occupation = 'Commanding Officer, 121st Evacuation Hospital, Seoul'
 photo = '/images/characters/col-bryce.png'
 
