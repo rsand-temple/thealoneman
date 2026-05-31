@@ -19,7 +19,7 @@ quotes = [
 "This world is analog.",
 "How do I answer this when I don’t know the rules?",
 "It’s simple causality. You can’t un-ring a bell.",
-"Why is there mud all over my boots?"
+"Why is there mud all over my boots?",
 "Sometimes things don’t feel real until you quantify them.",
 "It would be nice to see Jackie Robinson play.",
 "I’m starting to appreciate my memories being absent.",
