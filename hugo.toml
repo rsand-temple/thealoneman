@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'My New Hugo Project'
+
+[[menus.main]]
+name = "Characters"
+pageRef = "/characters"
+weight = 20
