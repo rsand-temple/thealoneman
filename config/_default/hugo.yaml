@@ -1,7 +1,7 @@
 baseURL: https://thealoneman.com
 locale: en-us
 title: The Alone Man
-theme: gohugo-theme-ananke
+theme: ananke
 params:
   contact:
     email: richard@richardsand.com
