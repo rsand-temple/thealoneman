@@ -14,7 +14,7 @@ photo = '/images/characters/kate-1952.jpg'
 book = 'The Alone Man'
 major_character = true
 +++
-![Lt. Kathleen Tiggs](/images/characters/kate-tiggs.png)
+![Lt. Kathleen Tiggs](/images/characters/kate-1952.png)
 
 - Rural Oregon farm family; working-class Catholic; mother Donna the primary shaping authority
 - 1918 pandemic: lost her little sister who was 5
