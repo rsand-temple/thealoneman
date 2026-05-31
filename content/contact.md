@@ -3,18 +3,20 @@ title = "Contact"
 draft = false
 +++
 
-<form
-  action="https://formspree.io/f/mredvdyz"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
+<form action="https://formspree.io/f/mredvdyz" method="POST">
+  <p>
+    <label>
+      Your email:<br>
+      <input type="email" name="email" required>
+    </label>
+  </p>
+
+  <p>
+    <label>
+      Your message:<br>
+      <textarea name="message" rows="6" required></textarea>
+    </label>
+  </p>
+
   <button type="submit">Send</button>
 </form>

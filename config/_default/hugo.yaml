@@ -18,3 +18,9 @@ menus:
     - name: Contact
       pageRef: /contact
       weight: 30
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+	  
