@@ -1,0 +1,57 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns mw8 center lh-copy">
+
+  <header class="mb4">
+    <h1 class="f1-l f2 mt0 mb3">{{ .Params.book_title | default .Title }}</h1>
+  </header>
+
+  <div class="cf">
+
+    {{ with .Params.cover }}
+    <img
+      src="{{ . }}"
+      alt="{{ $.Params.book_title | default $.Title }} cover"
+      class="fr-ns ml4-ns mb3 br3 shadow-4"
+      style="max-width: 280px; width: 100%; height: auto;"
+    >
+    {{ end }}
+
+    <section class="mb4">
+      <h2 class="f3 mt0">Book Details</h2>
+
+      <dl>
+        {{ with .Params.author }}
+        <dt><strong>Author</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+
+        {{ with .Params.genre }}
+        <dt><strong>Genre</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+
+        {{ with .Params.word_count }}
+        <dt><strong>Word Count</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+
+        {{ with .Params.page_count }}
+        <dt><strong>Page Count</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+
+        {{ with .Params.status }}
+        <dt><strong>Status</strong></dt>
+        <dd>{{ . }}</dd>
+        {{ end }}
+      </dl>
+    </section>
+
+    <section>
+      {{ .Content }}
+    </section>
+
+  </div>
+
+</article>
+{{ end }}
