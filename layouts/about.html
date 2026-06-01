@@ -1,47 +1,19 @@
 {{ define "main" }}
-<article class="pa3 pa4-ns mw8 center lh-copy">
-
-  <header class="mb4">
-    <h1 class="f1-l f2 mt0 mb3">{{ .Title }}</h1>
+<article class="about-page">
+  <header class="about-header">
+    <h1>{{ .Title }}</h1>
   </header>
 
-  <div class="cf">
-
+  <section class="about-dossier">
     {{ with .Params.photo }}
-    <img
-      src="{{ . }}"
-      alt="{{ $.Params.author_name | default $.Title }}"
-      class="fr-ns ml4-ns mb3 br3 shadow-4"
-      style="max-width: 280px; width: 100%; height: auto;"
-    >
+      <div class="about-photo">
+        <img src="{{ . }}" alt="{{ $.Title }}">
+      </div>
     {{ end }}
 
-    <section class="mb4">
-      <h2 class="f3 mt0">Author Details</h2>
-
-      <dl>
-        {{ with .Params.author_name }}
-        <dt><strong>Name</strong></dt>
-        <dd>{{ . }}</dd>
-        {{ end }}
-
-        {{ with .Params.location }}
-        <dt><strong>Location</strong></dt>
-        <dd>{{ . }}</dd>
-        {{ end }}
-
-        {{ with .Params.occupation }}
-        <dt><strong>Occupation</strong></dt>
-        <dd>{{ . }}</dd>
-        {{ end }}
-      </dl>
-    </section>
-
-    <section>
+    <div class="about-content">
       {{ .Content }}
-    </section>
-
-  </div>
-
+    </div>
+  </section>
 </article>
 {{ end }}

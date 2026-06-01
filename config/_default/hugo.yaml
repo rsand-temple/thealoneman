@@ -14,15 +14,17 @@ params:
     displayCopyright: true
     displayPoweredBy: false
   copyright: "Richard A. Sand. All rights reserved."
+  navbar:
+    displayLogo: false
+    displayTitle: true
 
 menus:
   main:
     - name: Characters
-      pageRef: /characters
       identifier: characters
       weight: 20
 
-    - name: "<all>"
+    - name: "(All)"
       pageRef: /characters
       parent: characters
       weight: 1

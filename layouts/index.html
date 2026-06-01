@@ -1,57 +1,35 @@
 {{ define "main" }}
-<article class="pa3 pa4-ns mw8 center lh-copy">
+<article class="book-page">
 
-  <header class="mb4">
-    <h1 class="f1-l f2 mt0 mb3">{{ .Params.book_title | default .Title }}</h1>
+  <header class="book-header">
+    <div class="book-kicker">Novel File</div>
+    <h1>{{ .Site.Title }}</h1>
   </header>
 
-  <div class="cf">
-
-    {{ with .Params.cover }}
-    <img
-      src="{{ . }}"
-      alt="{{ $.Params.book_title | default $.Title }} cover"
-      class="fr-ns ml4-ns mb3 br3 shadow-4"
-      style="max-width: 280px; width: 100%; height: auto;"
-    >
-    {{ end }}
-
-    <section class="mb4">
-      <h2 class="f3 mt0">Book Details</h2>
+  <section class="book-dossier">
+    <div class="book-profile">
+      <h2>Profile</h2>
 
       <dl>
-        {{ with .Params.author }}
-        <dt><strong>Author</strong></dt>
-        <dd>{{ . }}</dd>
-        {{ end }}
-
-        {{ with .Params.genre }}
-        <dt><strong>Genre</strong></dt>
-        <dd>{{ . }}</dd>
-        {{ end }}
-
-        {{ with .Params.word_count }}
-        <dt><strong>Word Count</strong></dt>
-        <dd>{{ . }}</dd>
-        {{ end }}
-
-        {{ with .Params.page_count }}
-        <dt><strong>Page Count</strong></dt>
-        <dd>{{ . }}</dd>
-        {{ end }}
-
-        {{ with .Params.status }}
-        <dt><strong>Status</strong></dt>
-        <dd>{{ . }}</dd>
-        {{ end }}
+        {{ with .Params.book_title }}<dt>Title</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.author }}<dt>Author</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.genre }}<dt>Genre</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.word_count }}<dt>Word Count</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.page_count }}<dt>Pages</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.status }}<dt>Status</dt><dd>{{ . }}</dd>{{ end }}
       </dl>
-    </section>
+    </div>
 
-    <section>
-      {{ .Content }}
-    </section>
+    {{ with .Params.cover }}
+      <div class="book-cover">
+        <img src="{{ . }}" alt="{{ $.Site.Title }} cover">
+      </div>
+    {{ end }}
+  </section>
 
-  </div>
+  <section class="book-content">
+    {{ .Content }}
+  </section>
 
 </article>
 {{ end }}

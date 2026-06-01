@@ -3,6 +3,7 @@ date = '2026-05-30T21:00:51-04:00'
 draft = false
 title = 'The Alone Man'
 author = 'Richard A. Sand'
+genre = 'Speculative fiction'
 word_count = '75,000'
 page_count = '300'
 cover = "/images/the-alone-man-cover.png"

@@ -1,62 +1,43 @@
 {{ define "main" }}
-<article class="hx:mx-auto hx:max-w-5xl hx:px-6 hx:py-10">
-  <header class="hx:mb-8">
-    <h1 class="hx:text-4xl hx:font-bold hx:tracking-tight">
-      {{ .Title }}
-    </h1>
+<article class="character-page">
+
+  <header class="character-header">
+    <div class="character-kicker">Character File</div>
+    <h1>{{ .Title }}</h1>
   </header>
 
-  <div class="hx:grid hx:grid-cols-1 hx:gap-8 md:hx:grid-cols-[1fr_320px]">
-    <section class="hx:prose hx:dark:prose-invert hx:max-w-none">
-      {{ .Content }}
-    </section>
+  <section class="character-dossier">
+    <div class="character-profile">
+      <h2>Profile</h2>
 
-    <aside class="hx:rounded-xl hx:border hx:border-gray-200 hx:bg-gray-50 hx:p-5 hx:shadow-sm hx:dark:border-neutral-800 hx:dark:bg-neutral-900">
-      {{ with .Params.photo }}
-        <img
-          src="{{ . }}"
-          alt="{{ $.Title }}"
-          class="hx:mb-5 hx:w-full hx:rounded-lg hx:object-cover hx:shadow"
-        />
-      {{ end }}
-
-      <dl class="hx:space-y-3 hx:text-sm">
-        {{ with .Params.character_name }}
-          <div>
-            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Name</dt>
-            <dd>{{ . }}</dd>
-          </div>
-        {{ end }}
-
-        {{ with .Params.nickname }}
-          <div>
-            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Nickname</dt>
-            <dd>{{ . }}</dd>
-          </div>
-        {{ end }}
-
-        {{ with .Params.born }}
-          <div>
-            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Born</dt>
-            <dd>{{ . }}</dd>
-          </div>
-        {{ end }}
-
-        {{ with .Params.hometown }}
-          <div>
-            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Hometown</dt>
-            <dd>{{ . }}</dd>
-          </div>
-        {{ end }}
-
-        {{ with .Params.occupation }}
-          <div>
-            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Occupation</dt>
-            <dd>{{ . }}</dd>
-          </div>
-        {{ end }}
+      <dl>
+        {{ with .Params.character_name }}<dt>Name</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.nickname }}<dt>Nickname</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.born }}<dt>Born</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.hometown }}<dt>Hometown</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.occupation }}<dt>Occupation</dt><dd>{{ . }}</dd>{{ end }}
       </dl>
-    </aside>
-  </div>
+    </div>
+
+    {{ with .Params.photo }}
+      <div class="character-photo">
+        <img src="{{ . }}" alt="{{ $.Title }}">
+      </div>
+    {{ end }}
+  </section>
+
+  <section class="character-content">
+    {{ .Content }}
+  </section>
+
+  {{ with .Params.quotes }}
+    <section class="character-quotes">
+      <h2>Notable Quotes</h2>
+      {{ range . }}
+        <blockquote>{{ . }}</blockquote>
+      {{ end }}
+    </section>
+  {{ end }}
+
 </article>
 {{ end }}

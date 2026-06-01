@@ -1,42 +1,19 @@
 {{ define "main" }}
-<section class="hx:mx-auto hx:max-w-6xl hx:px-6 hx:py-10">
-  <header class="hx:mb-10">
-    <h1 class="hx:text-4xl hx:font-bold hx:tracking-tight">{{ .Title }}</h1>
-
-    {{ with .Content }}
-      <div class="hx:prose hx:dark:prose-invert hx:mt-4 hx:max-w-3xl">
-        {{ . }}
-      </div>
-    {{ end }}
+<section class="character-index">
+  <header class="character-index-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div>{{ . }}</div>{{ end }}
   </header>
 
-  <div class="hx:grid hx:grid-cols-1 hx:gap-6 sm:hx:grid-cols-2 lg:hx:grid-cols-3">
+  <div class="character-grid">
     {{ range .Pages.ByWeight }}
-      <a href="{{ .RelPermalink }}"
-         class="hx:block hx:overflow-hidden hx:rounded-xl hx:border hx:border-gray-200 hx:bg-white hx:shadow-sm hx:transition hover:hx:shadow-md hx:dark:border-neutral-800 hx:dark:bg-neutral-900">
-
+      <a class="character-card" href="{{ .RelPermalink }}">
         {{ with .Params.photo }}
-          <img
-            src="{{ . }}"
-            alt="{{ $.Title }}"
-            class="hx:h-64 hx:w-full hx:object-cover"
-          />
+          <img src="{{ . }}" alt="{{ $.Title }}">
         {{ end }}
-
-        <div class="hx:p-5">
-          <h2 class="hx:text-xl hx:font-semibold">{{ .Title }}</h2>
-
-          {{ with .Params.occupation }}
-            <p class="hx:mt-1 hx:text-sm hx:text-gray-500 hx:dark:text-gray-400">{{ . }}</p>
-          {{ end }}
-
-          {{ with .Summary }}
-            <p class="hx:mt-3 hx:text-sm hx:leading-6 hx:text-gray-700 hx:dark:text-gray-300">
-              {{ . | plainify | truncate 150 }}
-            </p>
-          {{ end }}
-
-          <p class="hx:mt-4 hx:text-sm hx:font-medium">Read more →</p>
+        <div class="character-card-body">
+          <h2>{{ .Title }}</h2>
+          {{ with .Params.occupation }}<p>{{ . }}</p>{{ end }}
         </div>
       </a>
     {{ end }}
