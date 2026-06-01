@@ -22,6 +22,7 @@ quotes = [
 "Some UN brass thought it’d make a nice Christmas card, I reckon.",
 "I knew it before I looked down.",
 "But y’all lucky really, not rememberin’ this place.",
+"Yeah, I bet you was a spy in WW2. Bet you was a paratrooper!",
 "Doc, I been watchin’ folks lie my whole life.",
 "Then you ain’t get to tell me what I believe.",
 "I seen stranger things in the backwoods than a fella outta time.",
