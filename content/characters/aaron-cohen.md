@@ -26,6 +26,7 @@ quotes = [
 "Don’t let the uniforms fool you. The most dangerous men wear desks.",
 "You’re late to that decision. You'd better hurry."
 ]
++++
 Aaron Cohen is a psychiatrist by training and by genuine vocation. He has a warm manner and a worn leather medical bag and a way of asking questions that makes you feel, right up until the moment it is too late, that you are simply having a conversation.
 
 He came up in Brooklyn, went to medical school, served his country, and arrived in Korea with enough experience of human suffering to be neither surprised nor hardened by it. 
@@ -33,4 +34,3 @@ He came up in Brooklyn, went to medical school, served his country, and arrived 
 A man of genuine feeling, he cares about his patients in the old-fashioned sense of the word — not as cases but as people. What makes Cohen exceptional — and what makes him dangerous to a man with something to hide — is that he is clearly smarter than he is performing. The soft questions, the unhurried silences, the notebook that stays closed: these are not accident. They are method. He does not press. He waits. And in the waiting, people tell him things they had not intended to say.
 
 He has a wife named Anne. Three children, one of whom wants to be a doctor. He carries his family with him the way good men carry their families: quietly, and always.
-+++
