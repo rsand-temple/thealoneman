@@ -1,78 +1,62 @@
 {{ define "main" }}
-<article class="pa3 pa4-ns mw8 center lh-copy">
+<article class="hx:mx-auto hx:max-w-5xl hx:px-6 hx:py-10">
+  <header class="hx:mb-8">
+    <h1 class="hx:text-4xl hx:font-bold hx:tracking-tight">
+      {{ .Title }}
+    </h1>
+  </header>
 
-	<header class="mb4">
-		<h1 class="f1-l f2 mt0 mb3">{{ .Title }}</h1>
-	</header>
+  <div class="hx:grid hx:grid-cols-1 hx:gap-8 md:hx:grid-cols-[1fr_320px]">
+    <section class="hx:prose hx:dark:prose-invert hx:max-w-none">
+      {{ .Content }}
+    </section>
 
-	<div class="cf">
+    <aside class="hx:rounded-xl hx:border hx:border-gray-200 hx:bg-gray-50 hx:p-5 hx:shadow-sm hx:dark:border-neutral-800 hx:dark:bg-neutral-900">
+      {{ with .Params.photo }}
+        <img
+          src="{{ . }}"
+          alt="{{ $.Title }}"
+          class="hx:mb-5 hx:w-full hx:rounded-lg hx:object-cover hx:shadow"
+        />
+      {{ end }}
 
-		{{ with .Params.photo }} <img src="{{ . }}"
-			alt="{{ $.Params.character_name | default $.Title }}"
-			class="fr-ns ml4-ns mb3 br3 shadow-4"
-			style="max-width: 280px; width: 100%; height: auto;"> {{
-		end }}
+      <dl class="hx:space-y-3 hx:text-sm">
+        {{ with .Params.character_name }}
+          <div>
+            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Name</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
 
-		<section class="mb4">
+        {{ with .Params.nickname }}
+          <div>
+            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Nickname</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
 
-			<dl>
-				{{ with .Params.character_name }}
-				<dt>
-					<strong>Name</strong>
-				</dt>
-				<dd>{{ . }}</dd>
-				{{ end }}
-				
-				{{ with .Params.nickname }}
-				<dt>
-					<strong>Nickname</strong>
-				</dt>
-				<dd>{{ . }}</dd>
-				{{ end }}
-				
-				{{ with .Params.born }}
-				<dt>
-					<strong>Born</strong>
-				</dt>
-				<dd>{{ . }}</dd>
-				{{ end }}
-				
-				{{ with .Params.hometown }}
-				<dt>
-					<strong>Hometown</strong>
-				</dt>
-				<dd>{{ . }}</dd>
-				{{ end }}
-				
-				{{ with .Params.education }}
-				<dt>
-					<strong>Education</strong>
-				</dt>
-				<dd>{{ . }}</dd>
-				{{ end }}
+        {{ with .Params.born }}
+          <div>
+            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Born</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
 
-				{{ with .Params.occupation }}
-				<dt>
-					<strong>Occupation</strong>
-				</dt>
-				<dd>{{ . }}</dd>
-				{{ end }}
-			</dl>
-		</section>
+        {{ with .Params.hometown }}
+          <div>
+            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Hometown</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
 
-		<section>{{ .Content }}</section>
-
-		<section class="mt5">
-			<h2>Notable Quotes</h2>
-
-			{{ range .Params.quotes }}
-			<blockquote>
-				<p>"{{ . }}"</p>
-			</blockquote>
-			{{ end }}
-		</section>
-
-	</div>
-
+        {{ with .Params.occupation }}
+          <div>
+            <dt class="hx:font-semibold hx:text-gray-500 hx:dark:text-gray-400">Occupation</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
+      </dl>
+    </aside>
+  </div>
 </article>
 {{ end }}
