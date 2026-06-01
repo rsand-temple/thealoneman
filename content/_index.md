@@ -7,6 +7,7 @@ genre = 'Speculative fiction'
 word_count = '75,000'
 page_count = '300'
 cover = "/images/the-alone-man-cover.png"
+pitch = "In 1952 Korea, a wounded man claims to be an engineer from the future. Haunted by the truth he carries and protected by one nurse who believes him, he must decide whether to survive in the past or try to change the history he already knows."
 +++
 
 *Wait.*<br>
