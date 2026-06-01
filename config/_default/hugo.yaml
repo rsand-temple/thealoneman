@@ -2,6 +2,7 @@ baseURL: https://thealoneman.com
 locale: en-us
 title: The Alone Man
 theme: ananke
+copyright: "©Richard A. Sand. All rights reserved."
 
 params:
   custom_css:
@@ -9,7 +10,6 @@ params:
   contact:
     email: richard@richardsand.com
     phone: +1 267-984-3651
-  copyright: "©Richard A. Sand. All rights reserved."
   
 #menus:
 #  main:
