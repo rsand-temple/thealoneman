@@ -32,8 +32,7 @@ quotes = [
 "What is the geometry of fate?",
 "I think… I was hoping someone would understand. Not just believe. Understanding — that might survive.",
 "I let the silence grow until it was a wall I couldn't climb over.",
-"If I get back... I just want to fix what I broke. Or at least tell them I'm sorry.",
-"Even if the rope snaps, or the timeline corrects itself and swallows me whole... this moment happened. This thread will hold."
+"This moment happened. This thread will hold."
 ]
 +++
 David Kahn is a methodical, systems-oriented electrical engineer who has spent his career in the orderly world of academic research, with a passion for the history of technology. In 2025, he is a visiting professor at Stanford. He is precise, analytical, wry under pressure, and constitutionally inclined to treat every problem, including an impossible one, as an engineering challenge to be solved, step by step.

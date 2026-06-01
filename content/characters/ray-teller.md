@@ -7,7 +7,7 @@ title = 'Cpl. Raymond Teller'
 character_name = 'Ray Teller'
 nickname = 'Ray'
 born = '1930'
-hometown = 'Eufala, AL'
+hometown = 'Eufaula, AL'
 occupation = 'Corporal, U.S. Army'
 photo = '/images/characters/ray-teller-1952.png'
 
