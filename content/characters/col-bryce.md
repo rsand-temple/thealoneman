@@ -20,6 +20,7 @@ quotes = [
 "I hope you know that’s government property.",
 "On Sunday, I want him on a plane.",
 "You know what else I want? Empty beds! So get that mystery mad scientist out of my hospital.",
+"The push is coming. We have to be ready.",
 "We’re not in the business of metaphors. We’re in the business of conclusions!",
 "Watch your objectivity.",
 "I’d advise you not to carry his ghost around.",
