@@ -1,6 +1,7 @@
 +++
 date = '2026-05-30T12:33:46-04:00'
 draft = false
+weight = 20
 
 title = 'Lt. Kathleen Tiggs'
 

@@ -39,13 +39,13 @@ menus:
       parent: characters
       weight: 20
 
-    - name: Dr. Aaron Cohen, Captain
-      pageRef: /characters/aaron-cohen
+    - name: Ray Teller, Corporal
+      pageRef: /characters/ray-teller
       parent: characters
       weight: 30
 
-    - name: Ray Teller, Corporal
-      pageRef: /characters/ray-teller
+    - name: Dr. Aaron Cohen, Captain
+      pageRef: /characters/aaron-cohen
       parent: characters
       weight: 40
 

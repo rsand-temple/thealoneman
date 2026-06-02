@@ -96,7 +96,6 @@ form input[type="submit"]:hover {
   letter-spacing: 0.12em;
   font-size: 0.8rem;
   color: var(--tam-muted);
-  margin-bottom: 0.4rem;
   font-weight: 700;
   border-bottom: 2px solid var(--tam-panel-border);
 }
