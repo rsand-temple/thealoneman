@@ -15,7 +15,7 @@ pitch = "In 1952 Korea, a wounded man claims to be an engineer from the future. 
 *I’m David Kahn.*<br>
 *Dr. David Kahn.*
 
-In 1952 Korea, a wounded man with no ID and no memory wakes in a U.S. Army field hospital, claiming to be [Dr. David Kahn](/characters/david-kahn/), an engineer from the twenty-first century. His knowledge of future events and technology is precise. The doctors call it amnesia. The army calls him a spy. But his nurse [Lt. Kathleen "Kate" Tiggs](/characters/kathleen-tiggs/), is willing to listen. And another wounded soldier, [Corporal Ray Teller](/characters/ray-teller/), is willing to trust him.
+In 1952 Korea, a wounded man with no ID and no memory wakes in a U.S. Army field hospital, claiming to be [Dr. David Kahn](/characters/david-kahn/), an engineer from the twenty-first century. His knowledge of future events and technology is precise. The doctors call it amnesia. The army calls him a spy. But his nurse, [Lt. Kathleen "Kate" Tiggs](/characters/kathleen-tiggs/), is willing to listen. And [Corporal Ray Teller](/characters/ray-teller/), a fellow patient, is willing to trust him.
 
 As David struggles to prove who he is, his impossible knowledge of moon landings, DNA, and atomic weapons begins to shift belief into fear. 
 
