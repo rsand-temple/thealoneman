@@ -1,0 +1,65 @@
+.historical-photo {
+  float: right;
+  width: 350px;
+  margin: 0 0 1.5rem 2rem;
+}
+
+.historical-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
+.historical-dossier::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.historical-content p {
+  margin: 0 0 1.25rem 0;
+}
+
+.historical-content ul,
+.historical-content ol {
+  margin: 0 0 1.25rem 1.5rem;
+  padding-left: 1.25rem;
+}
+
+.historical-content li {
+  display: list-item;
+  margin: 0.35rem 0;
+}
+
+.historical-content ul {
+  list-style-type: disc;
+}
+
+.historical-content ol {
+  list-style-type: decimal;
+}
+
+article.book-page .historical-content blockquote {
+  display: block;
+  margin: 1.75rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 5px solid var(--tam-panel-border);
+  background-color: var(--tam-panel-bg);
+  color: var(--tam-muted);
+  font-style: normal;
+  border-radius: 0.25rem;
+}
+
+article.book-page .historical-content blockquote p {
+  margin: 0 0 0.75rem 0;
+  line-height: 1.65;
+}
+
+article.book-page .historical-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+article.book-page .historical-content blockquote strong {
+  color: var(--tam-accent);
+}

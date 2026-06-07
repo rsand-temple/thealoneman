@@ -1,0 +1,70 @@
+/* Header */
+.hextra-nav-container,
+nav[role="navigation"] {
+  background-color: var(--tam-header-bg);
+}
+
+.hextra-nav-container a,
+nav[role="navigation"] a {
+  color: var(--tam-header-fg);
+}
+
+.hextra-nav-container,
+.hextra-nav-container > div,
+header,
+nav {
+  background-color: var(--tam-header-bg);
+}
+
+.hextra-nav-container a,
+.hextra-nav-container button,
+.hextra-nav-container span {
+  color: var(--tam-header-link) !important;
+}
+
+.hextra-nav-container [aria-current="page"],
+.hextra-nav-container .active,
+.hextra-nav-container button {
+  color: var(--tam-header-link-active) !important;
+}
+
+.hextra-navbar a:hover {
+  color: var(--tam-nav-hover) !important;
+}
+
+.hextra-nav-container a:hover,
+.hextra-nav-container button:hover,
+.hextra-nav-container span:hover {
+  color: var(--tam-header-link-active) !important;
+}
+
+.hextra-nav-container [role="menu"] a:hover {
+  background: var(--tam-menu-hover-bg) !important;
+  color: var(--tam-menu-hover-fg) !important;
+  box-shadow: var(--tam-box-shadow);
+}
+
+/* Footer */
+.hextra-footer,
+footer {
+  background-color: var(--tam-footer-bg) !important;
+  color: var(--tam-footer-fg) !important;
+}
+
+.hextra-footer *,
+footer * {
+  color: var(--tam-footer-fg) !important;
+}
+
+.hextra-footer .hx\:py-12 {
+  padding-top: 0.75rem !important;
+  padding-bottom: 0.75rem !important;
+}
+
+.hextra-footer .hx\:mt-6 {
+  margin-top: 0 !important;
+}
+
+.hextra-footer a {
+  color: var(--tam-footer-fg);
+}

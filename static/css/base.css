@@ -1,0 +1,60 @@
+:root {
+  --tam-page-bg: white;
+  --tam-content-bg: white;
+
+  --tam-accent: black;
+  --tam-panel-border: #5A5AB4;
+  --tam-panel-bg: #EEEEEE;
+  --tam-muted:#666666;
+  --tam-box-shadow: 0 8px 20px rgba(90, 90, 180, 0.20);
+
+  --tam-header-bg: #EEEEEE;
+  --tam-header-fg: #666666;
+  --tam-header-link: #666666;
+  --tam-header-link-active: black;
+
+  --tam-footer-bg: #CCCCCC;
+  --tam-footer-fg: #666666;
+  --tam-footer-link: #666666;
+  --tam-footer-link-active: black;
+
+  --tam-book-header-bg: var(--tam-page-bg);
+
+  --tam-nav-hover: var(--tam-footer-link-active);
+  --tam-menu-hover-bg: var(--tam-page-bg);
+  --tam-menu-hover-fg: var(--tam-accent);
+}
+
+.about-content ul,
+.book-content ul,
+.character-content ul {
+  list-style-type: disc;
+  padding-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-content ol,
+.book-content ol,
+.character-content ol {
+  list-style-type: decimal;
+  padding-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-content li,
+.book-content li,
+.character-content li {
+  margin-bottom: 0.25rem;
+}
+
+.character-header,
+.book-header,
+.about-header,
+.character-index-header {
+  background-color: var(--tam-book-header-bg);
+}
+
+html.dark .character-profile h2,
+html.dark .book-profile h2 {
+  color: #f9fafb;
+}
