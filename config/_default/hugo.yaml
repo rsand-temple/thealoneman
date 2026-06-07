@@ -54,13 +54,22 @@ menus:
       parent: characters
       weight: 50
 
-    - name: About
-      pageRef: /about
+    - name: History
+      identifier: history
       weight: 30
+
+    - name: 121st Evac Hospital
+      pageRef: /history/121st
+      parent: history
+      weight: 1
+
+    - name: Author
+      pageRef: /about
+      weight: 40
 
     - name: Contact
       pageRef: /contact
-      weight: 40
+      weight: 50
 
 markup:
   goldmark:

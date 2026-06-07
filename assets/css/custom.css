@@ -376,3 +376,45 @@ footer * {
     color: var(--tam-menu-hover-fg) !important;
     box-shadow: var(--tam-box-shadow);
 }
+
+.historical-photo {
+  float: right;
+  width: 350px;
+  margin: 0 0 1.5rem 2rem;
+}
+
+.historical-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
+.historical-dossier::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.historical-content p {
+  margin: 0 0 1.25rem 0;
+}
+
+.historical-content ul,
+.historical-content ol {
+  margin: 0 0 1.25rem 1.5rem;
+  padding-left: 1.25rem;
+}
+
+.historical-content li {
+  display: list-item;
+  margin: 0.35rem 0;
+}
+
+.historical-content ul {
+  list-style-type: disc;
+}
+
+.historical-content ol {
+  list-style-type: decimal;
+}

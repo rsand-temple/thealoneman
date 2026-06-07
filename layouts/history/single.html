@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="book-page">
+
+  <header class="character-header">
+    <div class="character-kicker">Historical Background</div>
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  <section class="historical-dossier">
+
+    {{ with .Params.photo }}
+    <div class="historical-photo">
+      <img src="{{ . }}" alt="{{ $.Title }}">
+    </div>
+    {{ end }}
+
+    <div class="historical-content">
+      {{ .Content }}
+    </div>
+
+  </section>
+
+</article>
+{{ end }}

@@ -23,4 +23,4 @@ Haunted by what he left behind and hunted for what he knows, David faces a terri
 
 *What is the geometry of fate?*
 
-*The Alone Man* is an upmarket speculative work about choice, consequence, and the unbearable weight of what's to come.
+*The Alone Man* is an upmarket speculative work about choice, consequence, and the inexorable weight of what's to come.
