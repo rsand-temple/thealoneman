@@ -19,6 +19,11 @@ params:
   navbar:
     displayLogo: false
     displayTitle: true
+  theme:
+    default: light
+    displayToggle: false
+  search:
+    enable: false
 
 menus:
   main:
