@@ -1,12 +1,14 @@
 baseURL: https://thealoneman.com
 locale: en-us
 title: The Alone Man
-theme: hextra
+#theme: hextra
 copyright: "Richard A. Sand. All rights reserved."
 
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
 params:
-  custom_css:
-    - custom.css
   contact:
     email: richard@richardsand.com
     phone: +1 267-984-3651
