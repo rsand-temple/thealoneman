@@ -3,3 +3,132 @@
 <link rel="stylesheet" href="/css/content.css">
 <link rel="stylesheet" href="/css/characters.css">
 <link rel="stylesheet" href="/css/historical.css">
+
+<style>
+  .tam-mobile-menu {
+    display: none;
+    position: fixed;
+    top: var(--hextra-navbar-height, 4rem);
+    right: 1rem;
+    z-index: 9999;
+    width: min(280px, calc(100vw - 2rem));
+    padding: 0.75rem;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 0.75rem;
+    box-shadow: 0 12px 30px rgba(0,0,0,.18);
+  }
+
+  .tam-mobile-menu.is-open {
+    display: block;
+  }
+
+  .tam-mobile-menu a,
+  .tam-mobile-menu summary {
+    display: block;
+    padding: 0.65rem 0.75rem;
+    color: #333;
+    text-decoration: none;
+    border-radius: 0.4rem;
+    cursor: pointer;
+  }
+
+  .tam-mobile-menu a:hover,
+  .tam-mobile-menu summary:hover {
+    background: #f2f2f2;
+  }
+
+  .tam-mobile-menu details {
+    margin: 0;
+  }
+
+  .tam-mobile-menu summary {
+    font-weight: 700;
+    list-style: none;
+  }
+
+  .tam-mobile-menu summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .tam-mobile-menu summary::after {
+    content: "▾";
+    float: right;
+    font-weight: 400;
+  }
+
+  .tam-mobile-menu details[open] summary::after {
+    content: "▴";
+  }
+
+  .tam-mobile-submenu {
+    margin-left: 0.75rem;
+    padding-left: 0.5rem;
+    border-left: 1px solid #ddd;
+  }
+
+  .tam-mobile-submenu a {
+    font-size: 0.95rem;
+    padding: 0.5rem 0.75rem;
+  }
+
+  @media (min-width: 768px) {
+    .tam-mobile-menu {
+      display: none !important;
+    }
+  }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const button = document.querySelector(".hextra-hamburger-menu");
+  if (!button) return;
+
+  const menu = document.createElement("nav");
+  menu.className = "tam-mobile-menu";
+  menu.setAttribute("aria-label", "Mobile menu");
+
+  menu.innerHTML = `
+    <details>
+      <summary>Characters</summary>
+      <div class="tam-mobile-submenu">
+        <a href="/characters/">All Characters</a>
+        <a href="/characters/david-kahn/">Dr. David Kahn</a>
+        <a href="/characters/kathleen-tiggs/">Kathleen Tiggs</a>
+        <a href="/characters/ray-teller/">Ray Teller</a>
+        <a href="/characters/aaron-cohen/">Dr. Aaron Cohen</a>
+        <a href="/characters/col-bryce/">Colonel Bryce</a>
+      </div>
+    </details>
+
+    <details>
+      <summary>History</summary>
+      <div class="tam-mobile-submenu">
+        <a href="/history/121st/">121st Evac Hospital</a>
+      </div>
+    </details>
+
+    <a href="/about/">Author</a>
+    <a href="/contact/">Contact</a>
+  `;
+
+  document.body.appendChild(menu);
+
+  button.addEventListener("click", function (event) {
+    event.preventDefault();
+    event.stopPropagation();
+
+    const open = menu.classList.toggle("is-open");
+    button.setAttribute("aria-expanded", open ? "true" : "false");
+  });
+
+  document.addEventListener("click", function () {
+    menu.classList.remove("is-open");
+    button.setAttribute("aria-expanded", "false");
+  });
+
+  menu.addEventListener("click", function (event) {
+    event.stopPropagation();
+  });
+});
+</script>
