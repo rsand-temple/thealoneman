@@ -70,6 +70,11 @@ menus:
       parent: history
       weight: 1
 
+    - name: Hospital Staff
+      pageRef: /history/staff
+      parent: history
+      weight: 10
+
     - name: Author
       pageRef: /about
       weight: 40
