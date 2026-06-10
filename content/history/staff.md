@@ -12,3 +12,5 @@ One of the most well-documented operational aspects of the 121st was its role as
 + Acute memory loss
 + Clinical depression 
 + Intense social alienation
+
+> *Photograph courtesy of Metropolitan Library System of Oklahoma County*
