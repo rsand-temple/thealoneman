@@ -47,3 +47,5 @@ He wakes up wounded, disoriented, in an evacuation hospital in wartime Seoul —
 David is, at his core, an honest man who discovers under pressure that he is a terrible liar. He conceals by instinct what he believes he should, leaks by accident when he shouldn't, and then spends the hours afterward auditing the damage. He is guarded with everyone — not because he distrusts people but because the truth he carries is one that only makes things worse to say aloud. 
 
 The question at the center of his story is not whether he can survive. It is whether a man who left the most important relationships of his life in ruins has anything worth protecting — and whether protecting the future and protecting the people he loves are, finally, the same thing or different ones.
+
+> *NOTE: Image is AI generated and is not based on any real person/photograph*

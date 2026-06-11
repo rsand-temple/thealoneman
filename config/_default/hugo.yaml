@@ -70,10 +70,15 @@ menus:
       parent: history
       weight: 1
 
-    - name: Hospital Staff
-      pageRef: /history/staff
+    - name: Army Nurse Corps
+      pageRef: /history/nurses
       parent: history
       weight: 10
+
+    - name: Psychiatry at the 121st
+      pageRef: /history/psychiatry
+      parent: history
+      weight: 20
 
     - name: Author
       pageRef: /about
