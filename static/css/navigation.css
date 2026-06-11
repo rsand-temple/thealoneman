@@ -68,3 +68,7 @@ footer * {
 .hextra-footer a {
   color: var(--tam-footer-fg);
 }
+
+body:has(.tam-contact-page) aside.hextra-toc {
+  display: none;
+}

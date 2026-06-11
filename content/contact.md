@@ -2,6 +2,7 @@
 title = "Contact the Author"
 draft = false
 author = "Richard A. Sand"
+toc = "false"
 +++
 
 <form action="https://formspree.io/f/mredvdyz" method="POST">
