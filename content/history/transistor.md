@@ -18,4 +18,4 @@ The tipping point came down to manufacturing geometry. In 1959, Jean Hoerni at F
 
 This allowed engineers to stop building individual transistors by hand and start mass-printing thousands of them on a single slice of silicon. This breakthrough directly led to the invention of the Integrated Circuit (the microchip) and heralded the start of the Information Age.
 
-> *Photograph: Raytheon transistor C718, introduced 1952
+> *Photograph: Raytheon transistor C718, introduced 1952*
