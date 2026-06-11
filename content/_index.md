@@ -17,9 +17,9 @@ pitch = "In 1952 Korea, a wounded man claims to be an engineer from the future. 
 
 In 1952 Korea, a wounded man with no ID and no memory wakes in a U.S. Army field hospital, claiming to be [Dr. David Kahn](/characters/david-kahn/), an engineer from the twenty-first century. His knowledge of future events and technology is precise. The doctors call it amnesia. The army calls him a spy. But his nurse, [Lt. Kathleen "Kate" Tiggs](/characters/kathleen-tiggs/), is willing to listen. And [Corporal Ray Teller](/characters/ray-teller/), a fellow patient, is willing to trust him.
 
-As David struggles to prove who he is, his impossible knowledge of moon landings, DNA, and atomic weapons begins to shift belief into fear. 
-
 Haunted by what he left behind and hunted for what he knows, David faces a terrible choice: stay silent and be erased, or speak the truth and alter the course of history, potentially erasing himself and his own daughter. David must decide whether to run, try to find a way home, or save a future that has not yet happened. 
+
+As David struggles hold onto his identity, his impossible knowledge of moon landings, DNA, and atomic weapons begins to shift belief into fear. 
 
 *What is the geometry of fate?*
 
