@@ -70,20 +70,25 @@ menus:
       parent: history
       weight: 1
 
+    - name: Seoul During the War
+      pageRef: /history/seoul
+      parent: history
+      weight: 20
+ 
     - name: Army Nurse Corps
       pageRef: /history/nurses
       parent: history
-      weight: 10
+      weight: 20
 
     - name: Psychiatry at the 121st
       pageRef: /history/psychiatry
       parent: history
-      weight: 20
+      weight: 30
 
     - name: Early Transistors
       pageRef: /history/transistor
       parent: history
-      weight: 30
+      weight: 40
 
     - name: Author
       pageRef: /about

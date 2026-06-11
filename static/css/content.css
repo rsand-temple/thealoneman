@@ -148,3 +148,43 @@ form input[type="submit"]:hover {
 body:has(form) .hextra-toc {
   display: none !important;
 }
+
+.character-content h1,
+.character-content h2,
+.character-content h3,
+.historical-content h1,
+.historical-content h2,
+.historical-content h3 {
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--tam-accent);
+  margin: 2rem 0 1rem;
+}
+
+.character-content h1,
+.historical-content h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid var(--tam-panel-border);
+  padding-bottom: 0.35rem;
+}
+
+.character-content h2,
+.historical-content h2 {
+  font-size: 1.55rem;
+  border-bottom: 1px solid var(--tam-panel-border);
+  padding-bottom: 0.25rem;
+}
+
+.character-content h3,
+.historical-content h3 {
+  font-size: 1.25rem;
+}
+
+.character-content h1:first-child,
+.character-content h2:first-child,
+.character-content h3:first-child,
+.historical-content h1:first-child,
+.historical-content h2:first-child,
+.historical-content h3:first-child {
+  margin-top: 0;
+}
