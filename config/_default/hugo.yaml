@@ -80,6 +80,11 @@ menus:
       parent: history
       weight: 20
 
+    - name: From Vacuum Tubes to Transistors
+      pageRef: /history/transistor
+      parent: history
+      weight: 30
+
     - name: Author
       pageRef: /about
       weight: 40
