@@ -1,5 +1,5 @@
 +++
-title = "Early Transistor in 1952"
+title = "Early Transistors in 1952"
 layout = "history"
 photo = "/images/c718.gif"
 draft = false
