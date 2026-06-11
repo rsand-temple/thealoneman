@@ -63,3 +63,15 @@ article.book-page .historical-content blockquote p:last-child {
 article.book-page .historical-content blockquote strong {
   color: var(--tam-accent);
 }
+
+.historical-content a {
+  color: var(--tam-accent);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  font-weight: 600;
+}
+
+.historical-content a:hover {
+  color: var(--tam-muted);
+  text-decoration-thickness: 2px;
+}

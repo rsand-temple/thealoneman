@@ -23,6 +23,6 @@ Beyond the physical exhaustion, these women served as the primary emotional anch
 
 While medical facilities were protected by the Geneva Convention, they were frequently targeted by artillery and air raids. Seventeen Army nurses lost their lives on active duty during the Korean War.
 
-[Army Nurse Corps official website]https://medcoe.army.mil/amedd-army-nurse-corps/)
+[Army Nurse Corps official website](https://medcoe.army.mil/amedd-army-nurse-corps/)
 
 > *Photograph courtesy of Metropolitan Library System of Oklahoma County*
