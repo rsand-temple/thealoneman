@@ -9,7 +9,7 @@ character_name = 'Ray Teller'
 nickname = 'Ray'
 born = '1930'
 hometown = 'Eufaula, AL'
-occupation = 'Corporal, U.S. Army'
+occupation = 'Corporal, U.S. Army, 27th Infantry'
 photo = '/images/characters/ray-teller-1952.png'
 
 book = 'The Alone Man'

@@ -9,7 +9,7 @@ character_name = 'Kathleen Tiggs'
 nickname = 'Kate'
 born = '1910-08-03'
 hometown = 'St. Brigid, Oregon'
-occupation = 'Army Nurse Corps Lieutenant'
+occupation = 'Army Nurse Corps, 1st Lieutenant, 121st Evac Hospital'
 photo = '/images/characters/kate-1952.png'
 
 book = 'The Alone Man'
