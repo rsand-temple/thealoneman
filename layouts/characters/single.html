@@ -7,16 +7,27 @@
   </header>
 
   <section class="character-dossier">
-    <div class="character-profile">
-      <h2>Profile</h2>
+    <div class="character-left">
+      <div class="character-profile">
+        <h2>Profile</h2>
 
-      <dl>
-        {{ with .Params.character_name }}<dt>Name</dt><dd>{{ . }}</dd>{{ end }}
-        {{ with .Params.nickname }}<dt>Nickname</dt><dd>{{ . }}</dd>{{ end }}
-        {{ with .Params.born }}<dt>Born</dt><dd>{{ . }}</dd>{{ end }}
-        {{ with .Params.hometown }}<dt>Hometown</dt><dd>{{ . }}</dd>{{ end }}
-        {{ with .Params.occupation }}<dt>Occupation</dt><dd>{{ . }}</dd>{{ end }}
-      </dl>
+        <dl>
+          {{ with .Params.character_name }}<dt>Name</dt><dd>{{ . }}</dd>{{ end }}
+          {{ with .Params.nickname }}<dt>Nickname</dt><dd>{{ . }}</dd>{{ end }}
+          {{ with .Params.born }}<dt>Born</dt><dd>{{ . }}</dd>{{ end }}
+          {{ with .Params.hometown }}<dt>Hometown</dt><dd>{{ . }}</dd>{{ end }}
+          {{ with .Params.occupation }}<dt>Occupation</dt><dd>{{ . }}</dd>{{ end }}
+        </dl>
+      </div>
+
+      {{ with .Params.photo }}
+        <div class="character-disclaimer">
+          <em>
+            <span class="character-disclaimer-label">Note:</span>
+            Image is AI-generated and is not based on any real person/photograph.
+          </em>
+        </div>
+      {{ end }}
     </div>
 
     {{ with .Params.photo }}

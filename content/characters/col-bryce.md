@@ -36,5 +36,3 @@ He is not a villain. He is not a hero. He is the man at the top of the organizat
 What distinguishes Col. Bryce is that he sees more than he lets on. He is perceptive in the quiet way of a man who has watched a great many people under pressure and learned to read what they are not saying. When something unusual crosses his path, he does not always reach for the obvious response. He weighs it carefully.
 
 He is not sentimental about rules. But he is not indifferent to people either. Somewhere between those two things, he makes his decisions — with the measured pragmatism of a man who knows that every choice in a place like this has a cost, and that pretending otherwise is a luxury he stopped affording himself a long time ago.
-
-> *NOTE: Image is AI generated and is not based on any real person/photograph*

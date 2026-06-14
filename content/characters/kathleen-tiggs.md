@@ -50,5 +50,3 @@ In World War II, she served in the North African and European theaters. After th
 In 1950, at the outbreak of hostilities in Korea, she was transferred to the 121st Evacuation Hospital.
 
 Kathleen goes by 'Kathy' to casual friends and colleagues, only 'Kate' to close friends and family. And unless you're her mother, don't dare call her 'Katey'.
-
-> *NOTE: Image is AI generated and is not based on any real person/photograph*

@@ -50,5 +50,3 @@ He doesn't understand David Kahn, not fully. But Ray understands something more 
 Around David — who is surrounded by people trying to figure out what he is — Ray is the only one who simply accepts what he is and waits to see what happens next.
 
 He also had, tucked somewhere in his childhood, an aunt who gave him books. It is not a detail he mentions often. But Ray Teller is a man who reads. That fact matters more than it seems to at first.
-
-> *NOTE: Image is AI generated and is not based on any real person/photograph*

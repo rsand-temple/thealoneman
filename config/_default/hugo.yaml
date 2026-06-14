@@ -73,7 +73,7 @@ menus:
     - name: Seoul During the War
       pageRef: /history/seoul
       parent: history
-      weight: 20
+      weight: 10
  
     - name: Army Nurse Corps
       pageRef: /history/nurses
@@ -85,10 +85,15 @@ menus:
       parent: history
       weight: 30
 
+    - name: Comparing Korea and Vietnam
+      pageRef: /history/comparing-korea-and-vietnam
+      parent: history
+      weight: 40
+
     - name: Early Transistors
       pageRef: /history/transistor
       parent: history
-      weight: 40
+      weight: 50
 
     - name: Author
       pageRef: /about
