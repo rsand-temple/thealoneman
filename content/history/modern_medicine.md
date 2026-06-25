@@ -4,7 +4,7 @@ layout = "history"
 photo = "/images/8063-1950.jpg"
 draft = false
 +++
-To a surgeon in late 1952, they weren't practicing "old" medicine; they were standing on the cutting edge of a revolution that had just saved Western civilization a few years prior in WWII.
+To surgeons in late 1952, they weren't practicing "old" medicine; they were standing on the cutting edge of a revolution that had just saved Western civilization a few years prior in WWII.
 
 By framing 1952 as the dawn of the modern era, we highlight a profound historical truth: they had the logic of 2026 medicine, even if they lacked the tools.
 
