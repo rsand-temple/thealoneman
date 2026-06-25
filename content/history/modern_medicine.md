@@ -28,11 +28,9 @@ The 1952 Modernity: Surgeons at the 121st Evac and various MASH units began prac
 
 ## 3. "The Golden Hour" and Shock Management
 
-The 121st Evac benefited from the birth of modern military triage and rapid evacuation.
+The 121st Evac benefited from the birth of modern military triage and rapid evacuation. The introduction of helicopters (Bell H-13) meant that a wounded soldier could go from the front line to a surgical table in under an hour.
 
-The System: The use of Bell H-13 helicopters meant a wounded soldier could go from the front line to a surgical table in under an hour.
-
-The ancient practice of bloodletting had disappeared around the turn of the 19th century. By 1952, Doctors understood hemorrhagic shock perfectly. They used whole blood banks, typed and cross-matched, alongside dried plasma to keep blood pressure up.
+By 1952, Doctors understood hemorrhagic shock perfectly. They used whole blood banks, typed and cross-matched, alongside dried plasma to keep blood pressure up. Long gone were the dark ages of bloodletting, which had mercifully disappeared around the turn of the 19th century. 
 
 ## 4. Advanced Anesthesia
 
