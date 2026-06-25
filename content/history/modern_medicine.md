@@ -40,19 +40,19 @@ Anesthesia was no longer just a guy with a bottle of ether and a rag. They used 
 
 # What Medicine Lacked in 1952
 
-many new medications, more antibiotics, vaccines, aneasthetics, almost the entirety of psychiatric medicine, post-op treatment and physical therapy
+The physician's toolbox in 1952, while built on modern medical theories, was woefully sparse on tools. Many new medications, more antibiotics, vaccines, aneasthetics, almost the entirety of psychiatric medicine, post-op treatment and physical therapy were all missing from the medical practice.
 
 ## 1. Advanced imaging
 
 They had X-rays, but they were flat, 2D static films that took time to develop in a darkroom. If a piece of shrapnel was lodged near the aorta, the surgeon had to guess its depth or use a fluoroscope (which blasted everyone with massive doses of radiation).
 
-MRI, CT scan, ultrosound
+MRI, CT scans, and ultrasound would fundamentally transform imaging in the coming decades.
 
 ## 2. Microsurgery
 
 Every surgery was "open." If a knee joint was filled with bone fragments, the surgeon made a massive incision, peeling back tissue to visualize it.
 
-There was no arthroscopy or laparoscopy. The sheer physical trauma of the surgery itself was a major factor in patient recovery time and infection risk.
+There were no minimally-invasive techniques such as arthroscopy (joint) or laparoscopy (abdomen). The sheer physical trauma of the surgery itself was a major factor in patient recovery time and infection risk.
 
 ## 3. Monitoring
 
