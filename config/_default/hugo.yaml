@@ -90,10 +90,15 @@ menus:
       parent: history
       weight: 40
 
+    - name: Is 1952 Medicine Modern?
+      pageRef: /history/modern_medicine
+      parent: history
+      weight: 50
+
     - name: Early Transistors
       pageRef: /history/transistor
       parent: history
-      weight: 50
+      weight: 60
 
     - name: Author
       pageRef: /about
