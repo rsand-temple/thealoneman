@@ -4,19 +4,19 @@ layout = "history"
 photo = "/images/8063-1950.jpg"
 draft = false
 +++
-To surgeons in late 1952, they weren't practicing "old" medicine; they were standing on the cutting edge of a revolution that had just saved Western civilization a few years prior in WWII.
+To surgeons in late 1952, they weren't practicing "old" medicine; they were standing on the cutting edge of a medical revolution that had just saved Western civilization a few years prior in WWII.
 
-By framing 1952 as the dawn of the modern era, we highlight a profound historical truth: they had the logic of 2026 medicine, even if they lacked the tools.
+By framing 1952 as the dawn of the modern era, we highlight a profound historical truth: they had the logic of modern medicine, even if they lacked the tools.
 
 # Modern Medicine in 1952
 
-There are many aspects of 1952 medicine that would be familiar to a practitioner in 2026. Scrubbing for surgeries, masks and gloves and autoclaves. Charts and case notes. Understanding of the pathology of disease. Blood types and cross-matching.
+There are many aspects of 1952 medicine that would be familiar to a modern-day practitioner. Scrubbing for surgeries. Masks and gloves. X-rays and autoclaves. Charts and case notes. Understanding of the pathology of disease. Blood types and cross-matching.
 
 ## 1. The Antibiotic Miracle is Standard
 
 For the first time in human warfare, a soldier was more likely to survive a wound infection than die from it.
 
-What they had: *Penicillin* was mass-produced and ubiquitous. *Streptomycin* was treating tuberculosis, and broad-spectrum antibiotics like *Aureomycin (chlortetracycline)* and *Chloromycetin (chloramphenicol)* were actively deployed.
+By 1952, *Penicillin* was mass-produced and ubiquitous. *Streptomycin* was treating tuberculosis, and broad-spectrum antibiotics like *Aureomycin (chlortetracycline)* and *Chloromycetin (chloramphenicol)* were actively deployed.
 
 Doctors fully understood microbial resistance and the necessity of sterile fields. The days of "laudable pus" and hoping for the best were gone; *They expected to prevent or cure infections.*
 
@@ -24,13 +24,13 @@ Doctors fully understood microbial resistance and the necessity of sterile field
 
 Before the Korean War, if a soldier suffered a severed major artery in a limb, the standard procedure was ligation (tying it off), which resulted in an amputation rate of about 49%.
 
-The 1952 Modernity: Surgeons at the 121st Evac and various MASH units began practicing definitive vascular repair using fine silk sutures to stitch arteries back together. The amputation rate plummeted to around 13%. This was the birth of modern trauma surgery.
+In 1952, surgeons at the 121st Evac and various MASH units began practicing definitive vascular repair using fine silk sutures to stitch arteries back together. The amputation rate plummeted to around 13%. This was the birth of modern trauma surgery.
 
 ## 3. "The Golden Hour" and Shock Management
 
 The 121st Evac benefited from the birth of modern military triage and rapid evacuation. The introduction of helicopters (Bell H-13) meant that a wounded soldier could go from the front line to a surgical table in under an hour.
 
-By 1952, Doctors understood hemorrhagic shock perfectly. They used whole blood banks, typed and cross-matched, alongside dried plasma to keep blood pressure up. Long gone were the dark ages of bloodletting, which had mercifully disappeared around the turn of the 19th century. 
+By 1952, Doctors understood hemorrhagic shock perfectly. They used whole blood banks, typed and cross-matched, alongside dried plasma to keep blood pressure up. Long gone were the dark ages of bloodletting, which had mercifully disappeared around the end of the 19th century. 
 
 ## 4. Advanced Anesthesia
 
@@ -38,17 +38,17 @@ Anesthesia was no longer just a guy with a bottle of ether and a rag. They used 
 
 # What Medicine Lacked in 1952
 
-The physician's toolbox in 1952, while built on modern medical theories, was woefully sparse on tools. Many new medications, more antibiotics, vaccines, aneasthetics, almost the entirety of psychiatric medicine, post-op treatment and physical therapy were all missing from the medical practice.
+The physician's toolbox in 1952, while built on modern medical theories, was woefully sparse on tools. They lacked many modern medications, more antibiotics, vaccines, anesthetics. Almost the entirety of psychiatric medicine, post-op treatment and physical therapy were missing from the medical practice.
 
 ## 1. Advanced imaging
 
-They had X-rays, but they were flat, 2D static films that took time to develop in a darkroom. If a piece of shrapnel was lodged near the aorta, the surgeon had to guess its depth or use a fluoroscope (which blasted everyone with massive doses of radiation).
+1952 had X-rays, but they were flat, 2D static films that took time to develop in a darkroom. If a piece of shrapnel was lodged near the aorta, the surgeon had to guess its depth or use a fluoroscope (which blasted everyone with massive doses of radiation).
 
 MRI, CT scans, and ultrasound would fundamentally transform imaging in the coming decades.
 
 ## 2. Microsurgery
 
-Every surgery was "open." If a knee joint was filled with bone fragments, the surgeon made a massive incision, peeling back tissue to visualize it.
+Every surgery was "open". If a knee joint was filled with bone fragments, the surgeon made a massive incision, peeling back tissue to visualize it.
 
 There were no minimally-invasive techniques such as arthroscopy (joint) or laparoscopy (abdomen). The sheer physical trauma of the surgery itself was a major factor in patient recovery time and infection risk.
 
@@ -60,6 +60,6 @@ There were no pulse oximeters, no continuous ECG monitors with alarm thresholds,
 
 ## 4. The Hidden Killers (Viruses and Contaminated Plasma)
 
-While by 1952 they had conquered many bacteria, virology was in its infancy. They used pooled blood plasma heavily, which unknowingly spread homologous serum hepatitis (Hepatitis B and C) to thousands of soldiers. They had no idea how to screen for these viruses, nor did they have antivirals. Furthermore, the polio vaccine was still a few years away from public rollout; viral diseases were a black box.
+While by 1952 medicine had conquered many bacteria, virology was in its infancy. They used pooled blood plasma heavily, which unknowingly spread homologous serum hepatitis (Hepatitis B and C) to thousands of soldiers. They had no idea how to screen for these viruses, nor did they have the antivirals to treat them. Furthermore, the polio vaccine was still a few years away from public rollout; viral diseases were a black box.
 
 > *Photograph: An amputation operation is performed by a doctor and staff of the 8063rd MASH, November 4, 1950. U.S. Army photograph 8A/FEC-50-21376 by McIntosh reprinted with permission. *
