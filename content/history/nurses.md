@@ -19,7 +19,7 @@ By the time the war entered its entrenched stalemate phase in 1952, over 5,400 A
 
 Nurses at an Evacuation Hospital like the 121st managed a vastly different, highly demanding tier of medical care. They worked 12-to-18-hour shifts in drafty, corrugated metal Quonset huts. In the brutal Korean winters, the huts froze; in the summer, they turned into sweltering ovens. Nurses traded their traditional white skirts and stockings for heavy, olive-drab utility fatigues and combat boots just to survive the mud, dust, and cold. Evacuation hospitals bore the brunt of massive "waves" of casualties whenever major battles flared along the 38th Parallel.
 
-Beyond the physical exhaustion, these women served as the primary emotional anchor for wounded, shell-shocked young soldiers. For many critically injured GIs passing through the 121st before being flown to Japan, an Army nurse was the first American woman they had seen in months—and often, the last comforting voice they would ever hear.
+Beyond the physical exhaustion, these women served as the primary emotional anchor for wounded, shell-shocked young soldiers. For many critically injured GIs passing through the 121st before being flown to Japan, an Army nurse was the first American woman they had seen in months. And often, the nurses were the last comforting voice they'd ever hear.
 
 While medical facilities were protected by the Geneva Convention, they were frequently targeted by artillery and air raids. Seventeen Army nurses lost their lives on active duty during the Korean War.
 
