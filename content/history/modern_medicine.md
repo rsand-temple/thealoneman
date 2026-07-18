@@ -38,7 +38,7 @@ Anesthesia was no longer just a guy with a bottle of ether and a rag. They used 
 
 # What Medicine Lacked in 1952
 
-The physician's toolbox in 1952, while built on modern medical theories, was woefully sparse on tools. They lacked many modern medications, more antibiotics, vaccines, anesthetics. Almost the entirety of psychiatric medicine, post-op treatment and physical therapy were missing from the medical practice.
+The physician's toolbox in 1952, while built on modern medical theories, was woefully sparse on tools. They lacked many modern medications, including better antibiotics, vaccines, and anesthetics. Almost the entirety of psychiatric medicine, post-op treatment and physical therapy were missing from the medical practice.
 
 ## 1. Advanced imaging
 
@@ -56,7 +56,7 @@ There were no minimally-invasive techniques such as arthroscopy (joint) or lapar
 
 In 1952, monitoring a patient under anesthesia or in the ICU required a dedicated human being holding a wrist to check the pulse, watching the chest rise and fall, and manually inflating a blood pressure cuff every five minutes. The primary indicator that a patient was running out of oxygen was cyanosis—literally watching their lips turn blue.
 
-There were no pulse oximeters, no continuous ECG monitors with alarm thresholds, and no automated ventilators. If a patient stopped breathing in the middle of the night, a nurse had to notice it with their own eyes
+There were no pulse oximeters, no continuous ECG monitors with alarm thresholds, and no automated ventilators. If a patient stopped breathing in the middle of the night, a nurse had to notice it with their own eyes.
 
 ## 4. The Hidden Killers (Viruses and Contaminated Plasma)
 
