@@ -19,7 +19,7 @@ In 1952 Korea, a wounded man with no ID and no memory wakes in a U.S. Army field
 
 Haunted by what he left behind and hunted for what he knows, David faces a terrible choice: stay silent and be erased, or speak the truth and alter the course of history, potentially erasing himself and his own daughter. David must decide whether to run, try to find a way home, or save a future that has not yet happened. 
 
-As David struggles hold onto his own identity, his impossible knowledge of moon landings, DNA, and atomic weapons begins to shift belief into fear. 
+As David struggles to hold onto his own identity, his impossible knowledge of moon landings, DNA, and atomic weapons begins to shift doubt into fear. 
 
 *What is the geometry of fate?*
 
