@@ -6,23 +6,23 @@ draft = false
 +++
 To surgeons in late 1952, they weren't practicing "old" medicine; they were standing on the cutting edge of a medical revolution that had just saved Western civilization a few years prior in WWII.
 
-By framing 1952 as the dawn of the modern era, we highlight a profound historical truth: they had the logic of modern medicine, even if they lacked the tools.
+By framing 1952 as the dawn of the modern medical era, we highlight a profound historical truth: doctors in 1952 had the logic of modern medicine, even if they lacked the tools.
 
 # Modern Medicine in 1952
 
 There are many aspects of 1952 medicine that would be familiar to a modern-day practitioner. Scrubbing for surgeries. Masks and gloves. X-rays and autoclaves. Charts and case notes. Understanding of the pathology of disease. Blood types and cross-matching.
 
-## 1. The Antibiotic Miracle is Standard
+## 1. The Antibiotic Miracle is now Standard
 
 For the first time in human warfare, a soldier was more likely to survive a wound infection than die from it.
 
 By 1952, *Penicillin* was mass-produced and ubiquitous. *Streptomycin* was treating tuberculosis, and broad-spectrum antibiotics like *Aureomycin (chlortetracycline)* and *Chloromycetin (chloramphenicol)* were actively deployed.
 
-Doctors fully understood microbial resistance and the necessity of sterile fields. The days of "laudable pus" and hoping for the best were gone; *They expected to prevent or cure infections.*
+Doctors fully understood microbial resistance and the necessity of sterile fields. The days of "laudable pus" and hoping for the best were gone; *Doctors in 1952 expected to prevent or cure infections.*
 
 ## 2. The Vascular Surgery Revolution (The Korean War Breakthrough)
 
-Before the Korean War, if a soldier suffered a severed major artery in a limb, the standard procedure was ligation (tying it off), which resulted in an amputation rate of about 49%.
+Before the Korean War, if a soldier suffered a severed major artery in a limb, the standard procedure was _ligation_ (tying it off), which resulted in an amputation rate of about 49%.
 
 In 1952, surgeons at the 121st Evac and various MASH units began practicing definitive vascular repair using fine silk sutures to stitch arteries back together. The amputation rate plummeted to around 13%. This was the birth of modern trauma surgery.
 
@@ -34,17 +34,17 @@ By 1952, Doctors understood hemorrhagic shock perfectly. They used whole blood b
 
 ## 4. Advanced Anesthesia
 
-Anesthesia was no longer just a guy with a bottle of ether and a rag. They used sodium pentothal for smooth induction, endotracheal intubation to control airways, and curare derivatives for muscle relaxation. They could keep a shattered chest open and a patient breathing for hours.
+Anesthesia was no longer a bottle of ether and a rag. Sodium pentothal was used for smooth induction, endotracheal intubation to control airways, and curare derivatives for muscle relaxation. Doctors could keep a shattered chest open and a patient breathing for hours.
 
 # What Medicine Lacked in 1952
 
-The physician's toolbox in 1952, while built on modern medical theories, was woefully sparse on tools. They lacked many modern medications, including better antibiotics, vaccines, and anesthetics. Almost the entirety of psychiatric medicine, post-op treatment and physical therapy were missing from the medical practice.
+The physician's toolbox in 1952, while built on modern medical theories, was woefully sparse on tools. They lacked many modern medications, including better antibiotics, vaccines, and anaesthetics. Psychiatric medicine, post-op treatment and physical therapy were all missing from the medical practice.
 
 ## 1. Advanced imaging
 
 1952 had X-rays, but they were flat, 2D static films that took time to develop in a darkroom. If a piece of shrapnel was lodged near the aorta, the surgeon had to guess its depth or use a fluoroscope (which blasted everyone with massive doses of radiation).
 
-MRI, CT scans, and ultrasound would fundamentally transform imaging in the coming decades.
+Magnetic Resonance Imaging (MRI), Computed Tomography (CT) scans, and ultrasound would fundamentally transform imaging in the coming decades.
 
 ## 2. Microsurgery
 
@@ -54,7 +54,7 @@ There were no minimally-invasive techniques such as arthroscopy (joint) or lapar
 
 ## 3. Monitoring
 
-In 1952, monitoring a patient under anesthesia or in the ICU required a dedicated human being holding a wrist to check the pulse, watching the chest rise and fall, and manually inflating a blood pressure cuff every five minutes. The primary indicator that a patient was running out of oxygen was cyanosis—literally watching their lips turn blue.
+In 1952, monitoring a patient under anaesthesia or in the ICU required a dedicated human being holding a wrist to check the pulse, watching the chest rise and fall, and manually inflating a blood pressure cuff every five minutes. The primary indicator that a patient was running out of oxygen was cyanosis—literally watching if their lips turn blue.
 
 There were no pulse oximeters, no continuous ECG monitors with alarm thresholds, and no automated ventilators. If a patient stopped breathing in the middle of the night, a nurse had to notice it with their own eyes.
 
