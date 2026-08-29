@@ -24,7 +24,6 @@ quotes = [
 "It would be nice to see Jackie Robinson play.",
 "I’m starting to appreciate my memories being absent.",
 "Home’s not just a ‘where’, it’s a ‘when’, too.",
-"We want these in series, not parallel. Ground to hot, ground to hot.",
 "This is almost funny. Funny like a death trap.",
 "Apparently I’m back in the doghouse. That didn’t take long.",
 "I can actually make this work…",
